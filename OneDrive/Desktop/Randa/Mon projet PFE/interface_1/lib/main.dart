@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:interface_1/models/music_model.dart';
 import 'package:interface_1/screens/starting_page.dart';
 
 
